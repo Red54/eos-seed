@@ -1,0 +1,25 @@
+{
+  "name": "eos-seed",
+  "version": "1.0.0",
+  "description": "Using a seed phrase to generate EOS private key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Red54/eos-seed.git"
+  },
+  "keywords": [
+    "EOS"
+  ],
+  "author": "谢致邦 (XIE Zhibang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Red54/eos-seed/issues"
+  },
+  "homepage": "https://github.com/Red54/eos-seed#readme",
+  "dependencies": {
+    "eosjs-ecc": "^4.0.1"
+  }
+}
